@@ -10,7 +10,7 @@ export function HeroSection() {
       <div className="absolute inset-0">
         <img
           src={heroImage}
-          alt="Solar panels installation"
+          alt=""
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0 gradient-hero" />

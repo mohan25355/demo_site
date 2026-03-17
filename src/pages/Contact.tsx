@@ -11,14 +11,14 @@ const contactInfo = [
   {
     icon: Phone,
     title: "Phone",
-    details: ["+917358897955", "+91 11 4567 8900"],
+    details: ["+917358897955", ""],
     action: "tel:+917358897955",
   },
   {
     icon: Mail,
     title: "Email",
-    details: ["info@solarpowerindia.com", "sales@solarpowerindia.com"],
-    action: "mailto:info@solarpowerindia.com",
+    details: ["priyaagenciesvpm@gmail.com", ""],
+    action: "mailto:priyaagenciesvpm@gmail.com",
   },
   {
     icon: MapPin,
